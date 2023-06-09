@@ -1,0 +1,70 @@
+body {
+	background-color: #F7CCAC;
+	font-size: 20px;
+	color: #3A3845;
+	}
+
+
+
+a:visited {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+
+
+#pojemnik{
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#logo{
+	background-color:#C69B7B;
+	text-align:center;
+	padding:15px;
+}
+
+#Nawigacja{
+	float:left;
+	width:20%;
+	padding:15px;
+}
+
+#Kontent{
+	float:left;
+	width:50%;
+	padding:20px;
+	text-align:center;
+}
+
+#zdjecia{
+	float:left;
+	width:20%;
+	
+	text-align:center;
+	border: white;
+}
+
+#Stopka{
+		clear:both;
+		background-color:#C69B7B;
+		text-align:center;
+}
+h2{
+	text-align:center;
+}
+
+#kontentall{
+	float:left;
+	width:100%;
+	padding:20px;
+	text-align:center;	
+}
+
+.nav{
+	float:left; 
+	padding: 10px;
+	
+}
